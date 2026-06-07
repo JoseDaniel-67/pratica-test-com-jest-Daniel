@@ -1,0 +1,20 @@
+{
+  "name": "lab-jest-engine",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:coverage": "jest --coverage"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "directories": {
+    "test": "tests"
+  },
+  "description": "",
+  "devDependencies": {
+    "jest": "^30.4.2"
+  }
+}
